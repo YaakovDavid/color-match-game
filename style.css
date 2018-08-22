@@ -1,0 +1,11 @@
+.result-row{
+  display: flex;
+}
+
+.result-column{
+  width: 50%
+}
+
+.color-shower{
+  height: 150px;
+}
